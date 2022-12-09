@@ -197,4 +197,8 @@ plt.show()
 
 
 
+tmp_2.groupby(['target_name']).count()
+
+tmp_2['target_name'].value_counts().describe()
+
 

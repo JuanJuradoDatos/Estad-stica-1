@@ -183,7 +183,8 @@ plt.tight_layout()
 plt.show()
 
 
-
+##ADALINE CON GRADIENTE ESTOCASTICO
+#proximamente :P 
 
 
 
